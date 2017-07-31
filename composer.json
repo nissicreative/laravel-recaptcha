@@ -8,7 +8,6 @@
         "guzzlehttp/guzzle": "^6.3",
         "illuminate/support": "^5.4"
     },
-    "mininum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Nissi\\ReCaptcha\\": "src/"
