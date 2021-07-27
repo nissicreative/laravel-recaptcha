@@ -1,12 +1,15 @@
 {
     "name": "nissicreative/laravel-recaptcha",
     "description": "A simple reCAPTCHA implementation for your Laravel project.",
-    "keywords": ["laravel", "recaptcha"],
+    "keywords": [
+        "laravel",
+        "recaptcha"
+    ],
     "type": "library",
     "require": {
-        "php": "^5.6 || ^7.0",
-        "guzzlehttp/guzzle": "^6.2",
-        "illuminate/support": "^5.0 || ^6.0 || ^7.0"
+        "php": "^5.6 || ^7.0 || ^8.0",
+        "guzzlehttp/guzzle": "^6.2 || ^7.0",
+        "illuminate/support": "^5.0 || ^6.0 || ^7.0 || ^8.0"
     },
     "autoload": {
         "psr-4": {
